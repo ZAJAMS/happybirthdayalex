@@ -1,0 +1,13 @@
+.top.bottom {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+
+.top {
+    background-color: yellow;
+}
+
+.bottom {
+    background-color: black;
+    color: white;
+}
