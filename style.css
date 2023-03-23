@@ -1,6 +1,8 @@
 .top.bottom {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 28px;
+    width: fit-content;
+    height: fit-content;
 }
 
 .top {
