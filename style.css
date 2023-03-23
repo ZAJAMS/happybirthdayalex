@@ -1,6 +1,6 @@
 html {
     background-image: url(https://imgs.search.brave.com/UTFsXXMz1PegOkRvHKKcu44dlvkaWXZaOeJ1agoVqQQ/rs:fit:1124:843:1/g:ce/aHR0cDovL2ltYWdl/czUuZmFucG9wLmNv/bS9pbWFnZS9waG90/b3MvMzEwMDAwMDAv/SGFwcHktQmlydGhk/YXktcmViYS1uYXRp/b24tMzEwNTQ4NTQt/MTEyNC04NDMuanBn);
-    width: fit-content;
+    width: max-content;
     height: auto;
 }
 
@@ -14,9 +14,13 @@ html {
 
 .top {
     background-color: yellow;
+    margin-top: 280px;
+    margin-left: 150px;
 }
 
 .bottom {
     background-color: black;
     color: white;
+    margin-top: 280px;
+    margin-left: 480px;
 }
